@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.kaggle.com/competitions/playground-series-s5e11">
     <img src="https://github.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/blob/main/header_2.png" alt="Score" />
   </a>
 </p>
@@ -40,9 +40,10 @@ Predicting whether a borrower will pay back their loan using **machine learning 
 
 ## 👤 Author
 
-| 👤 **Name** | 🔗 **Profile** |
-|------------|----------------|
-| Riddy Mazumder | https://github.com/RiddyMazumder |
+| 👤 **Name** | 🔗 **Github-Profile** |🔗 **Kaggle-Profile** |
+|------------|----------------|----------------|
+| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder)|[![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder)|
+
 
 ---
 
@@ -101,3 +102,24 @@ meta_model = lgb.LGBMClassifier(**meta_params)
 # use early stopping via callback on a small internal split if desired; here we train on full meta features
 meta_model.fit(X_meta_train, y_train_np)
 final_pred = meta_model.predict_proba(X_meta_test)[:,1]
+```
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project for educational and personal purposes.
+
+---
+
+## 💬 Feedback & Contributions
+
+If you have any questions, suggestions, or improvements:
+
+* 🐞 Open an issue
+* 📤 Submit a pull request
+
+Contributions are always welcome! 😊
+
+---
+
+Happy analyzing and learning! 🚀
